@@ -43,3 +43,5 @@ package = "netlify-plugin-chromium"
   [headers.values]
   # Uncomment to enable Netlify user control. Requires premium plan.
   # Basic-Auth = "someuser:somepassword anotheruser:anotherpassword"
+
+
